@@ -7,7 +7,7 @@ Google Map in Flutter Tutorial | Custom Map Marker | InfoWindow | Custom Map Sty
 
 ## 🕹 Sample Video
 <video src="https://user-images.githubusercontent.com/41232970/126894454-e2f885e3-d080-40bb-8b4b-e1c7e9268c19.mp4"></video>
-
+</br> </br> </br>
 ```groovy
   geocode: ^1.0.1
   google_maps_flutter: ^2.0.6
