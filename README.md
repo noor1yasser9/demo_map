@@ -1,16 +1,18 @@
 # web_map
+Google Map in Flutter Tutorial | Custom Map Marker | InfoWindow | Custom Map Style
 
-A new Flutter project.
+## ✨ Features Project Android:
+* Custom Map Marke
+* Custom Map Style
 
-## Getting Started
+## 🕹 Sample Video
+<video src="https://user-images.githubusercontent.com/41232970/126894454-e2f885e3-d080-40bb-8b4b-e1c7e9268c19.mp4"></video>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```groovy
+  geocode: ^1.0.1
+  google_maps_flutter: ^2.0.6
+  cached_network_image: ^3.0.0
+  font_awesome_flutter: ^8.2.0
+  flutter_rating_bar: ^4.0.0
+  image:
+```
