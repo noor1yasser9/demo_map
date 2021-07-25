@@ -4,7 +4,7 @@ Google Map in Flutter Tutorial | Custom Map Marker | InfoWindow | Custom Map Sty
 
 
 <h4 align="center">
-<a href="https://www.youtube.com/watch?v=5s7z-vIqnqE&list=PLIf5OoJZjgrBsmqnEcXHKnWvEe4_0j16C&index=5&ab_channel=NoorEl-Nahhal" rel="nofollow">
+<a align="center" href="https://www.youtube.com/watch?v=5s7z-vIqnqE&list=PLIf5OoJZjgrBsmqnEcXHKnWvEe4_0j16C&index=5&ab_channel=NoorEl-Nahhal" rel="nofollow">
   <img align="left" alt="Noor Yasser | Youtube " width="100px" src="https://user-images.githubusercontent.com/41232970/102919173-0e8cfe80-4491-11eb-9706-cdebd4f610ff.png" style="max-width:300%; max-height:150%;"> </a>
 </h4>
 <br/><br/><br/><br/>
